@@ -1,9 +1,11 @@
 # AutoImageSelection
 
 
-## Datasets
+## Text-to-image_Recall_Dataset
 
-## Model weights of our two-stage model
+## Image_ranking_Dataset_on_Fliggy
 
-## Model weights of compared baslines
+## Model_weights_of_our_two-stage_model
+
+## Model_weights_of_compared_baslines
 

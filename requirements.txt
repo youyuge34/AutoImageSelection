@@ -1,0 +1,11 @@
+transformers == 4.8.1
+torch == 1.7.1
+jieba
+cn2an
+psutil
+tqdm
+pillow
+efficientnet_pytorch
+requests
+numpy
+scikit-learn
